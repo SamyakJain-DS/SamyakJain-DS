@@ -12,9 +12,9 @@ I am a self taught data analyst. I became interested in this field around July 2
 |-----------------------------------------------|----------------------------|
 | Python                                        | <a href="https://google.com">Detection Lab</a>|
 | Excel and Statistics                          | <a href="https://google.com">Detection Lab</a>|
-| (Old) Data Analysis 1                         | SOC Automation Lab|
-| (Old) Data Analysis 2                         | SOC Automation Lab|
-| (Old) Data Analysis 3                         | SOC Automation Lab|
+| (Old) Data Analysis 1                         | <a href="https://google.com">SOC Automation Lab|
+| (Old) Data Analysis 2                         | <a href="https://google.com">SOC Automation Lab|
+| (Old) Data Analysis 3                         | <a href="https://google.com">SOC Automation Lab|
 
 ## Skills
 - Advanced Python
