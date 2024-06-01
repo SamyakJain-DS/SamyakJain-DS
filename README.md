@@ -11,13 +11,13 @@ I am a self taught data analyst. I became interested in this field around July 2
 Please excuse the lack of knowledge in the earlier projects. I believe I have improved with successive projects.
 
 
-|Project Number| Skill                                         | Associated Project         |
-|-----|-----------------------------------------------|----------------------------|
-|5| Python                                        | <a href="https://google.com">Detection Lab</a>|
-|4| Excel and Statistics                          | <a href="https://google.com">Detection Lab</a>|
-|1| (Old) Data Analysis 1                         | <a href="https://google.com">SOC Automation Lab|
-|2| (Old) Data Analysis 2                         | <a href="https://google.com">SOC Automation Lab|
-|3| (Old) Data Analysis 3                         | <a href="https://google.com">SOC Automation Lab|
+|Project Number| Skill                                         | Associated Project                                                                                |
+|--------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------|
+|5             | Python                                        | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |
+|4             | Excel, Statistics and Visualisation           | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|
+|3             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |
+|2             | Data Analysis and Visualisation               | <a href="https://google.com">Case Study Bellabeat                                                 |
+|1             | Data Analysis and Visualisation               | <a href="https://google.com">Case Study Cyclistics                                                |
 
 ## Skills
 - Advanced Python
