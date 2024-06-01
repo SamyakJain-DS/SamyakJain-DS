@@ -16,8 +16,8 @@ Please excuse the lack of knowledge in the earlier projects. I believe I have im
 |5             | Python                                        | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |
 |4             | Excel, Statistics and Visualisation           | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|
 |3             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |
-|2             | Data Analysis and Visualisation               | <a href="https://google.com">Case Study Bellabeat                                                 |
-|1             | Data Analysis and Visualisation               | <a href="https://google.com">Case Study Cyclistics                                                |
+|2             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/bellabeat">Case Study Bellabeat                         |
+|1             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/cyclistics">Case Study Cyclistics                       |
 
 ## Skills
 - Advanced Python
