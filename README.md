@@ -4,7 +4,7 @@
 
 20 years old, I have completed my gradutation from PGDAV College, under Delhi University in May 2024, with the subjects Economics and Computers.
 
-I am a self taught data analyst. I became interested in this field around July 2023, at the end of my 2nd year in college, and since then, have continued to advance myself in the field. Currently, I strive to be a master in data science and have spent many hundereds of hours learning about the field from youtube (un-certified), and recently took on a paid data science course that am currently completing.
+I am a self taught data analyst. I became interested in this field around July 2023, at the end of my 2nd year in college, and since then, have continued to advance myself in the field. I got the Google's Professional Data Analyst Certificate in August 2023 under financial aid. Currently, I strive to be a master in data science and have spent many hundereds of hours learning about the field from youtube (un-certified), and recently took on a paid data science course that am currently completing.
 
 ## Projects
 
