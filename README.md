@@ -31,3 +31,7 @@ Please excuse the lack of knowledge in the earlier projects. I believe I have im
 <div>
 <img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
+
+## Current Resume
+
+https://drive.google.com/file/d/1QFJyrJ-NNsKBWybTbBYAAuUiHzYGYBIq/view?usp=sharing
