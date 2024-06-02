@@ -1,6 +1,7 @@
 # Hello, I'm SAMYAK JAIN
 <a href="https://www.linkedin.com/in/samyakjaindu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1QFJyrJ-NNsKBWybTbBYAAuUiHzYGYBIq/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
 
 20 years old, I have completed my gradutation from PGDAV College, under Delhi University in May 2024, with the subjects Economics and Computers.
 
@@ -31,7 +32,3 @@ Please excuse the lack of knowledge in the earlier projects. I believe I have im
 <div>
 <img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
-
-## Current Resume
-
-https://drive.google.com/file/d/1QFJyrJ-NNsKBWybTbBYAAuUiHzYGYBIq/view?usp=sharing
