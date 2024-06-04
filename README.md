@@ -30,5 +30,5 @@ Please excuse the lack of knowledge in the earlier projects. I believe I have im
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
 </div>
