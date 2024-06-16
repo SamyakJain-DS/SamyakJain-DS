@@ -29,6 +29,10 @@ Please excuse the lack of knowledge in the earlier projects. I believe I have im
 - Advanced Statistics
 - Linear Algebra
 - Machine Learning (Beginner)
+- SQL
+- Data Anlysis
+- Cluster Analysis
+- Predictive Analysis
 
 ## Certifications
 <div>
