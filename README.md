@@ -3,11 +3,6 @@
 <a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1t5lzBJibiHkcdW7lksooVbSU2xDIlP8k/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
 
-20 years old, I have completed my gradutation from PGDAV College, under Delhi University in May 2024, with the subjects Economics and Computers.
-
-I am a self taught data analyst. I became interested in this field around July 2023, at the end of my 2nd year in college, and since then, have continued to advance myself in the field. I got the Google's Professional Data Analyst Certificate in August 2023. Currently, I strive to be a master in data science and have spent many hundereds of hours learning about the field from youtube (un-certified), and recently took on a paid data science course that am currently completing.
-
-Currently learning more about deeper concepts like Machine Learning, Deep Learning, and Generative AI.
 
 ## Projects
 
