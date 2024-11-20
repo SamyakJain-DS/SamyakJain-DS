@@ -1,5 +1,5 @@
 # Hello, I'm SAMYAK JAIN
-<a href="https://www.linkedin.com/in/samyakjaindu"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samyakjain-ds"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1t5lzBJibiHkcdW7lksooVbSU2xDIlP8k/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
 
