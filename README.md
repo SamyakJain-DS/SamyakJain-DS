@@ -18,21 +18,6 @@ Here is a list of every project I have worked on:
 |5      | Data Analysis and Visualisation                | <a href="https://github.com/SamyakJain-DS/bellabeat">Case Study Bellabeat                         |Data Analysis|
 |6      | Data Analysis and Visualisation                | <a href="https://github.com/SamyakJain-DS/cyclistics">Case Study Cyclistics                       |Data Analysis|
 
-## Skills
-- Advanced Python
-- Advanced Excel
-- Tableau
-- Power BI
-- Data Visualization
-- Advanced Statistics
-- Linear Regression
-- Linear Algebra
-- Machine Learning (Beginner)
-- SQL
-- Data Anlysis
-- Cluster Analysis
-- Predictive Analysis
-
 ## Certifications
 <div>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
