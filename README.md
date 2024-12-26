@@ -21,8 +21,11 @@ Here is a list of every project I have worked on:
 ## Skills
 - Advanced Python
 - Advanced Excel
-- Tableau and Data Visualization
+- Tableau
+- Power BI
+- Data Visualization
 - Advanced Statistics
+- Linear Regression
 - Linear Algebra
 - Machine Learning (Beginner)
 - SQL
