@@ -6,14 +6,14 @@
 
 ## Projects
 
-Please excuse the lack of knowledge in the earlier projects. I believe I have improved with successive projects.
+Here is a list of every project I have worked on:
 
 
-|Project Number| Skill                                         | Associated Project                                                                                |
+|Project Name  | Skill                                         | Associated Project                                                                                |
 |--------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------|
-|5             | Python                                        | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |
-|4             | Excel, Statistics and Visualisation           | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|
-|3             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |
+|Pokemario                                                   | Python                                        | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |
+|Statistical Analysis of Life Expectancy and its Determinants| Excel, Statistics and Visualisation           | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|
+|Naruto's Episodes Study                                     | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |
 |2             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/bellabeat">Case Study Bellabeat                         |
 |1             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/cyclistics">Case Study Cyclistics                       |
 
