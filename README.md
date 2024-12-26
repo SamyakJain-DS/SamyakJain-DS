@@ -9,13 +9,14 @@
 Here is a list of every project I have worked on:
 
 
-|Project Name  | Skill                                         | Associated Project                                                                                |
-|--------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------|
-|Pokemario                                                   | Python                                        | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |
-|Statistical Analysis of Life Expectancy and its Determinants| Excel, Statistics and Visualisation           | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|
-|Naruto's Episodes Study                                     | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |
-|2             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/bellabeat">Case Study Bellabeat                         |
-|1             | Data Analysis and Visualisation               | <a href="https://github.com/SamyakJain-DS/cyclistics">Case Study Cyclistics                       |
+|S. No. | Skill                                          | Associated Project                                                                                |Categoy|
+|-------|------------------------------------------------|---------------------------------------------------------------------------------------------------|-------|
+|1      | Python, NLP, Text Analysis, Sentiment Analysis | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |Data Science|
+|2      | Python, Debugging, Problem Solving             | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                               |Python Game Dev|
+|3      | Excel, Statistics and Visualisation            | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>|Data Science|
+|4      | Data Analysis and Visualisation                | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                 |Data Analysis|
+|5      | Data Analysis and Visualisation                | <a href="https://github.com/SamyakJain-DS/bellabeat">Case Study Bellabeat                         |Data Analysis|
+|6      | Data Analysis and Visualisation                | <a href="https://github.com/SamyakJain-DS/cyclistics">Case Study Cyclistics                       |Data Analysis|
 
 ## Skills
 - Advanced Python
