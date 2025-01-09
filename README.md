@@ -5,15 +5,19 @@
 
 
 ## <b>A Short Introduction!</b>
-Hey there! I’m <b>Samyak Jain</b>, a guy who loves <i>playing around with data</i> and making sense of it. My journey into the world of data science started during the last year of my college, and I’ve been hooked ever since.
+Hey there! I’m <b>Samyak Jain</b>, a guy who loves playing around with data and making sense of it. My journey into the world of <b>data science</b> started during the last year of my college, and I’ve been hooked ever since.
 </br></br>
-I graduated from the <b>University of Delhi</b> with a degree in <i>Computer Applications and Economics</i>. Right now, I’m diving deeper into the field by pursuing a <b>Diploma in Data Science</b> from <b>IIT Madras</b>, where I’m learning all about <i>machine learning</i> and <i>advanced analytics</i>—areas I’m super passionate about.
+I graduated from the <b>University of Delhi</b> with a degree in <i>Computer Applications and Economics</i>. Right now, I’m diving deeper into the field by pursuing a <b>Diploma in Data Science</b> from <b>IIT Madras</b>, where I’m learning all about <i>machine learning</i> and <i>advanced analytics</i>—areas I’m <i>super passionate about</i>.
 </br></br>
-Back in college, I discovered my knack for <i>programming</i> and <i>logic building</i> while creating a <b>2D platformer game</b> using only <b>Python</b>. That experience, combined with my love for <i>maths</i> and <i>stats</i> from my school days, made me realize that <b>data science</b> is where I belong.
+During college, I discovered my knack for <b>programming</b> and <b>logic building</b> while creating a <i>2D platformer game</i> using only Python. That experience, combined with my love for <i>maths and stats</i> from my school days, made me realize that <b>data science</b> is where I belong.
 </br></br>
-I strongly believe in <i>learning a little every day</i> and staying consistent—<b>small steps lead to big changes over time</b>.
+With a strong foundation in <b>Python</b> and its powerful libraries like <i>Pandas</i>, <i>scikit-learn</i>, and <i>BeautifulSoup</i>, I specialize in <b>data manipulation</b>, <b>machine learning</b>, and <b>web scraping</b>. My skill set also includes <b>advanced statistical analysis</b>, <b>SQL</b> for data querying, and visualization tools like <b>Power BI</b> and <b>Excel</b>, making me proficient in delivering <b>comprehensive data-driven solutions</b>.
 </br></br>
-When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching well documented youtube videos</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
+In my journey as a data professional, I’ve worked on projects ranging from <i>predictive modeling</i> and <i>sentiment analysis</i> to <b>interactive dashboard creation</b> and <b>business intelligence reporting</b>. These experiences have equipped me with the <i>analytical mindset</i> and <i>technical skills</i> needed to excel in both <b>Data Analyst</b> and <b>Data Scientist</b> roles.
+</br></br>
+I strongly believe in <i>learning a little every day</i> and staying consistent—<i>small steps lead to big changes over time</i>.
+</br></br>
+When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching well-documented YouTube videos</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
 </br></br>
 Feel free to explore my portfolio as I continue to learn and grow in this exciting field of <b>data science</b>!
 
