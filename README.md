@@ -8,7 +8,7 @@
 Hey there! I’m <b>Samyak Jain</b>, a guy who loves playing around with data and making sense of it. My journey into the world of <b>data science</b> started during the last year of my college, and I’ve been hooked ever since.
 </br></br>
 I graduated from the <b>University of Delhi</b> with a degree in <i>Computer Applications and Economics</i>. Right now, I’m diving deeper into the field by pursuing a <b>Diploma in Data Science</b> from <b>IIT Madras</b>, where I’m learning all about <i>machine learning</i> and <i>advanced analytics</i>—areas I’m <i>super passionate about</i>.
-</br></br>
+</br>
 During college, I discovered my knack for <b>programming</b> and <b>logic building</b> while creating a <i>2D platformer game</i> using only Python. That experience, combined with my love for <i>maths and stats</i> from my school days, made me realize that <b>data science</b> is where I belong.
 </br></br>
 With a strong foundation in <b>Python</b> and its powerful libraries like <i>Pandas</i>, <i>scikit-learn</i>, and <i>BeautifulSoup</i>, I specialize in <b>data manipulation</b>, <b>machine learning</b>, and <b>web scraping</b>. My skill set also includes <b>advanced statistical analysis</b>, <b>SQL</b> for data querying, and visualization tools like <b>Power BI</b> and <b>Excel</b>, making me proficient in delivering <b>comprehensive data-driven solutions</b>.
