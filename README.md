@@ -13,7 +13,7 @@ Back in college, I discovered my knack for <i>programming</i> and <i>logic build
 </br></br>
 I strongly believe in <i>learning a little every day</i> and staying consistent—<b>small steps lead to big changes over time</b>.
 </br></br>
-When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching cool documentaries</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
+When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching well documented youtube videos</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
 </br></br>
 Feel free to explore my portfolio as I continue to learn and grow in this exciting field of <b>data science</b>!
 
