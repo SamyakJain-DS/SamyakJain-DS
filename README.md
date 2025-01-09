@@ -4,7 +4,6 @@
 <a href="https://drive.google.com/file/d/1-jraQZzE0OVAJJyO6AEfAbSpKKbFkPFa/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
 
 ## <b>A Short Introduction!</b>
-</br>
 Hey there! I’m <b>Samyak Jain</b>, a guy who loves <i>playing around with data</i> and making sense of it. My journey into the world of data science started during the last year of my college, and I’ve been hooked ever since.
 </br></br>
 I graduated from the <b>University of Delhi</b> with a degree in <i>Computer Applications and Economics</i>. Right now, I’m diving deeper into the field by pursuing a <b>Diploma in Data Science</b> from <b>IIT Madras</b>, where I’m learning all about <i>machine learning</i> and <i>advanced analytics</i>—areas I’m super passionate about.
