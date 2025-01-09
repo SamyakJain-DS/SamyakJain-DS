@@ -3,9 +3,19 @@
 <a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1-jraQZzE0OVAJJyO6AEfAbSpKKbFkPFa/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
 
-## A Short Introduction!
-This is Samyak Jain,  just a guy with keen interest in statistics and maths,  or you can say someone who loves toying with data. I graduated an ISC board school with commerce background in Gurgaon, the place I was brought up in. Currently, I'm pursuing Diploma in Data Science by IIT Madras, to learn and gain expertise in machine learning and advanced analytics, the field I'm very passionate about. I recently completed my Under-Graduation in Computer Applications and Economics through University of Delhi.</br></br>
-My journey in data science began in the beginning of the last year of my college, when I decided to learn Data Analysis and give it a shot. Ever since my school days, I have always had a knack for mathematics and statistics, and by chance discovered this amazing profession which includes both of these field. Through the python semester of my college, I discovered my capabilities in logic building in programming and debugging, when I developed a 2D platform game using only python.</br></br> I believe that small increments in knwoledge and skills by studying and practicing everyday in a disciplined manner will make a huge difference in the long term.</br></br> In my free time, I enjoy wactching well documented videos, playing video games with friends and strength training.
+## <b>A Short Introduction!</b>
+</br>
+Hey there! I’m <b>Samyak Jain</b>, a guy who loves <i>playing around with data</i> and making sense of it. My journey into the world of data science started during the last year of my college, and I’ve been hooked ever since.
+</br>
+I graduated from the <b>University of Delhi</b> with a degree in <i>Computer Applications and Economics</i>. Right now, I’m diving deeper into the field by pursuing a <b>Diploma in Data Science</b> from <b>IIT Madras</b>, where I’m learning all about <i>machine learning</i> and <i>advanced analytics</i>—areas I’m super passionate about.
+</br>
+Back in college, I discovered my knack for <i>programming</i> and <i>logic building</i> while creating a <b>2D platformer game</b> using only <b>Python</b>. That experience, combined with my love for <i>math</i> and <i>stats</i> from my school days, made me realize that <b>data science</b> is where I belong.
+</br>
+I strongly believe in <i>learning a little every day</i> and staying consistent—<b>small steps lead to big changes over time</b>.
+</br>
+When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching cool documentaries</i>, <i>gaming with my friends</i>, or <i>hitting the gym</i> for some strength training.
+</br>
+Feel free to explore my portfolio as I continue to learn and grow in this exciting field of <b>data science</b>!
 
 ## Portfolio
 
