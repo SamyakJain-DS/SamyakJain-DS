@@ -1,7 +1,8 @@
 # Hello, I'm SAMYAK JAIN
 <a href="https://www.linkedin.com/in/samyakjain-ds"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1-jraQZzE0OVAJJyO6AEfAbSpKKbFkPFa/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white" /></a>
+<a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+
 
 ## <b>A Short Introduction!</b>
 Hey there! I’m <b>Samyak Jain</b>, a guy who loves <i>playing around with data</i> and making sense of it. My journey into the world of data science started during the last year of my college, and I’ve been hooked ever since.
