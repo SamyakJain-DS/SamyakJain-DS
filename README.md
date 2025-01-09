@@ -18,12 +18,11 @@ In my journey as a data professional, I’ve worked on projects ranging from <i>
 I strongly believe in <i>learning a little every day</i> and staying consistent—<i>small steps lead to big changes over time</i>.
 </br></br>
 When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching well-documented YouTube videos</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
-</br></br>
+</br>
 Feel free to explore my portfolio as I continue to learn and grow in this exciting field of <b>data science</b>!
 
 ## Portfolio
-
-Here is a list of my projects!:
+Here is a list of my <b>projects</b>! :
 
 
 |S. No. | Skill                                          | Associated Project                                                                                         |Categoy|
