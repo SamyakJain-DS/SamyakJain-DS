@@ -37,7 +37,7 @@ Here is a list of my <b>projects</b>! :
 
 ## Certifications
 <div>
-<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analyst-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Google-s?label=Professional%20Data%20Analysis%20Certification" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/iNeuron-s?label=Machine%20Learning%20Foundations" /></a>
 
 </div>
