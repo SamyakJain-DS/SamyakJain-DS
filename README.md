@@ -40,7 +40,7 @@ Here is a list of my <b>projects</b>! :
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Professional_Data_Analysis_Certification-Google-rgb(66, 133, 244)" width= "325" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Data_Science_Bootcamp_by_365_Careers-Udemy-purple" width= "330" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/PowerBI_Beginner_to_Pro_Workshop-Pragmatic_Works-rgb(0, 30, 55)" width= "350" /></a>
-<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Machine_Learning_Foundations-iNeuron-#eaaa2e" width= "250" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Machine_Learning_Foundations-iNeuron-rgb(#eaaa2e)" width= "250" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Hypothesis_Testing-iNeuron-#eaaa2e" width= "200" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Time_Series_Forecasting-iNeuron-#eaaa2e" width= "225" /></a>
 
