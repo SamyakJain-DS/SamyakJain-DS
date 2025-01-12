@@ -37,8 +37,11 @@ Here is a list of my <b>projects</b>! :
 
 ## Certifications
 <div>
-<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Google-s?label=Professional%20Data%20Analysis%20Certification" /></a>
-<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/iNeuron-s?label=Machine%20Learning%20Foundations" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Professional_Data_Analysis_Certification-Google-green" width= "250" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Data_Science_Bootcamp_by_365_Careers-Udemy-purple" width= "250" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/PowerBI_Beginner_to_Pro_Workshop-Pragmatic_Works-dark_blue" width= "250" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Machine_Learning_Foundations-iNeuron-blue" width= "250" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Hypothesis_Testing-iNeuron-blue" width= "250" /></a>
+<a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Time_Series_Forecasting-iNeuron-blue" width= "250" /></a>
 
 </div>
