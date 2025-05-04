@@ -43,7 +43,7 @@ Here is a list of my <b>projects</b>! :
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Machine_Learning_Foundations-iNeuron-rgb(234, 170, 46)" width= "250" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Hypothesis_Testing-iNeuron-rgb(234, 170, 46)" width= "200" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Time_Series_Forecasting-iNeuron-rgb(234, 170, 46)" width= "225" /></a>
-<a href="https://drive.google.com/file/d/1HiF2sMnBOb9v69OpGgHzb68rnBvs3ntJ/view?usp=sharing"><img src="https://img.shields.io/badge/TATA_Data_Viz._Simulation-Forage-rgb(234, 170, 46)" width= "225" /></a>
-<a href="https://drive.google.com/file/d/1sFSUuOVJk0wOCTzoPA790-Tgg56ktOYE/view?usp=sharing"><img src="https://img.shields.io/badge/Deloitte_Data_Analysis_Simulation-Forage-rgb(234, 170, 46)" width= "225" /></a>
+<a href="https://drive.google.com/file/d/1HiF2sMnBOb9v69OpGgHzb68rnBvs3ntJ/view?usp=sharing"><img src="https://img.shields.io/badge/TATA_Data_Viz._Simulation-Forage-rgb(0, 30, 55)" width= "225" /></a>
+<a href="https://drive.google.com/file/d/1sFSUuOVJk0wOCTzoPA790-Tgg56ktOYE/view?usp=sharing"><img src="https://img.shields.io/badge/Deloitte_Data_Analysis_Simulation-Forage-rgb(0, 30, 55)" width= "275" /></a>
 
 </div>
