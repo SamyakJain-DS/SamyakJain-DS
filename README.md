@@ -28,7 +28,7 @@ Here is a list of my <b>projects</b>! :
 |S. No. | Skill                                          | Associated Project                                                                                         |Categoy|
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------|
 |1      | Excel, Power BI, Dashboard | <a href="https://github.com/SamyakJain-DS/B2B_Pharma_Sales_Analysis">B2B Pharma Company's Sales Data Analysis</a> |Data Analysis|
-|2      | Python, NLP, Text Analysis, Sentiment Analysis | <a href="https://github.com/SamyakJain-DS/Text_Analysis_Using_Python"> DataPreparation for Text Analysis of Online Articles</a> |Data Science|
+|2      | Python, NLP, Text Analysis, Sentiment Analysis | <a href="https://github.com/SamyakJain-DS/Text_Analysis_Using_Python"> Data Preparation for Text Analysis of Online Articles</a> |Data Science|
  |3      | Python, Debugging, Problem Solving             | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                                        |Python Game Dev|
  |4      | Excel, Statistics and Visualisation            | <a href="https://github.com/SamyakJain-DS/Life-Expectancy">Life Expectancy & its Determinants </a>         |Data Science|
  |5      | Excel, Tableau                | <a href="https://github.com/SamyakJain-DS/naruto-directors-analysis">Naruto Study                          |Data Analysis|
