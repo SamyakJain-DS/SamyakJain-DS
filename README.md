@@ -3,6 +3,7 @@
 <a href="https://drive.google.com/file/d/1poExsi7iUS9BDXEW-pql98mhcx2D1w2K/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=resume&logoColor=white"/></a>
 <a href="https://public.tableau.com/app/profile/samyak.jain8329/vizzes"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
 
+Attention is all you need.
 
 ## <b>A Short Introduction!</b>
 Hey there! I’m <b>Samyak Jain</b>, a guy who loves playing around with data and making sense of it. My journey into the world of <b>data science</b> started during the last year of my college, and I’ve been hooked ever since.
