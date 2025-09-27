@@ -28,7 +28,8 @@ Here is a list of my <b>projects</b>! :
 
 |S. No. | Skill                                          | Associated Project                                                                                         |
 |-------|------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-|1      | `Git and Conda Env Development`, `Complex Web Scraping`, `Data Cleaning`, `Database Management - OLTP & OLAP`, `API Development and Deployment`, `Streamlit Website Development and Deployment`, `Data Analysis`, `Python` | <a href="https://github.com/SamyakJain-DS/end-to-end-data-analysis">End to End Data Analysis</a> |
+|1      | `Git and Conda Env Development`, `Data Cleaning`, `Data Preprocessing`, `Hyperparameter Tuning`, `Streamlit Website Development and Deployment`, `Machine Learning`, `Python` | <a href="https://github.com/SamyakJain-DS/end-to-end-machine-learning">End to End Machine Learning</a> |
+|2      | `Git and Conda Env Development`, `Complex Web Scraping`, `Data Cleaning`, `Database Management - OLTP & OLAP`, `API Development and Deployment`, `Streamlit Website Development and Deployment`, `Data Analysis`, `Python` | <a href="https://github.com/SamyakJain-DS/end-to-end-data-analysis">End to End Data Analysis</a> |
 |2      | `Excel`, `Power BI`, `Dashboard` | <a href="https://github.com/SamyakJain-DS/B2B_Pharma_Sales_Analysis">B2B Pharma Company's Sales Data Analysis</a> |
 |3      | `Python`, `NLP`, `Text Analysis`, `Sentiment Analysis` | <a href="https://github.com/SamyakJain-DS/Text_Analysis_Using_Python"> Data Preparation for Text Analysis of Online Articles</a> |
  |4      | `Python`, `Debugging`, `Problem Solving`             | <a href="https://github.com/SamyakJain-DS/PokeMario">PokeMario </a>                                        |
