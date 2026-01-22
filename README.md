@@ -40,6 +40,7 @@ Here is a list of my <b>projects</b>! :
 
 ## Certifications
 <div>
+<a href="https://drive.google.com/file/d/1hjLuOW9jLjuNyGHjb7CIDA0N4ghTn1fv/view?usp=sharing"><img src="https://img.shields.io/badge/Data_Science_Mentorship_CampusX-rgb(66, 133, 244)" width= "325" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Professional_Data_Analysis_Certification-Google-rgb(66, 133, 244)" width= "325" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/Data_Science_Bootcamp_by_365_Careers-Udemy-purple" width= "330" /></a>
 <a href="https://coursera.org/share/08771d9d6845ed219bd47182c2c4694f"><img src="https://img.shields.io/badge/PowerBI_Beginner_to_Pro_Workshop-Pragmatic_Works-rgb(0, 30, 55)" width= "350" /></a>
