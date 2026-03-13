@@ -16,7 +16,7 @@ With a strong foundation in <b>Python</b> and its powerful libraries like <i>Pan
 </br></br>
 In my journey as a data professional, I’ve worked on projects ranging from <i>predictive modeling</i> and <i>sentiment analysis</i> to <b>interactive dashboard creation</b> and <b>business intelligence reporting</b>. These experiences have equipped me with the <i>analytical mindset</i> and <i>technical skills</i> needed to excel in both <b>Data Analyst</b> and <b>Data Scientist</b> roles.
 </br></br>
-I strongly believe in <i>learning a little every day</i> and staying consistent—<i>small steps lead to big changes over time</i>.
+I strongly believe in <i>learning a little every day</i> and staying consistent - <i>small steps lead to big changes over time</i>.
 </br></br>
 When I’m not crunching numbers or analyzing data, you’ll probably find me <i>watching well-documented YouTube videos</i>, <i>gaming with my friends</i>, or <i>strength training</i> to stay healthy and energized.
 </br>
